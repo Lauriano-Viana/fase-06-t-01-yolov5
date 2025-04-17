@@ -17,7 +17,8 @@ O projeto está organizado da seguinte forma:
 ![image](https://github.com/user-attachments/assets/e6cc9e69-728a-4caf-9c46-a682fb15ac8e)
 
 ## ▶️ Como Executar
-Todo o processo de execução está detalhado no notebook Colab. Siga estas etapas básicas:
+Todo o processo de execução está detalhado no notebook Colab. 
+### Siga estas etapas básicas:
     1. Montagem do Google Drive - Para acessar os datasets
     2. Clone do repositório YOLOv5 - Instalação da arquitetura
     3. Instalação de dependências - Preparação do ambiente
