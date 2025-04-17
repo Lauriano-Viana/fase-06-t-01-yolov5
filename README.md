@@ -34,4 +34,4 @@ Todo o processo de execução está detalhado no notebook Colab. Siga estas etap
     • Exemplos de detecções nas imagens de teste
 🔗 Acesso ao Notebook
 
-Nota: Substitua pelo link real do seu Colab
+[link do Colab](https://colab.research.google.com/drive/1p8_IE2aryKI91lHqTvNC_P43GFdVsxFL?usp=sharing)
