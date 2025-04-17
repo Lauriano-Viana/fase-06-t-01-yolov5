@@ -13,6 +13,7 @@ Criar um modelo de visão computacional capaz de:
     • PyTorch: Framework de deep learning
 ## 📂 Estrutura do Projeto
 O projeto está organizado da seguinte forma:
+
 ![image](https://github.com/user-attachments/assets/e6cc9e69-728a-4caf-9c46-a682fb15ac8e)
 
 ## ▶️ Como Executar
