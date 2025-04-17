@@ -13,8 +13,7 @@ Criar um modelo de visão computacional capaz de:
     • PyTorch: Framework de deep learning
 ## 📂 Estrutura do Projeto
 O projeto está organizado da seguinte forma:
-/drive/MyDrive/fase-06-tarefa-01/assets/
-![image](https://github.com/user-attachments/assets/37b44528-298e-45c5-9085-cf3cbdfc99cf)
+![image](https://github.com/user-attachments/assets/e6cc9e69-728a-4caf-9c46-a682fb15ac8e)
 
 ## ▶️ Como Executar
 Todo o processo de execução está detalhado no notebook Colab. Siga estas etapas básicas:
