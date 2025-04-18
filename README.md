@@ -37,3 +37,7 @@ Todo o processo de execução está detalhado no notebook Colab.
 🔗 Acesso ao Notebook
 
 [link do Colab](https://colab.research.google.com/drive/1p8_IE2aryKI91lHqTvNC_P43GFdVsxFL?usp=sharing)
+
+🔗 Acesso ao Youtube
+
+https://youtu.be/8rM3JOti3Vk
